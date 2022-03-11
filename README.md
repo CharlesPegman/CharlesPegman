@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlesPegman and I run a business called Pegletd
+- 👋 Hi, I’m @CharlesPegman and I run a business called Peglets
 - 👀 I provide website development and maintenance using Elementor Pro...
 - 📫 How to reach me: email me at charlespegman@peglets.co.uk
 
